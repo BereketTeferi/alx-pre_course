@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 git fetch origin main
+=======
+git fetch origin main
+git fetch origin main && git merge origin/main
+git fetch origin main && git merge origin/main
+>>>>>>> origin/master
+git fetch origin main && git merge origin/main
